@@ -14,9 +14,15 @@
 4. git submodule add -f -b master https://github.com/calvincodes/calvincodes.github.io.git public
 5. Commit the modified files and public folder - then push them to origin.
 6. Now regenrate the public folder and push it to origin again
-`hugo
-cd public
-git add .
-git commit -m "Build website"
-git push origin master
-cd ..`
+
+`hugo`
+
+`cd public`
+
+`git add .`
+
+`git commit -m "Build website"`
+
+`git push origin master`
+
+`cd ..`
