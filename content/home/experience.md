@@ -19,6 +19,18 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Backend Software Engineering Intern"
+  company = "Sumo Logic"
+  company_url = "https://www.sumologic.com/"
+  location = "Redwood City, USA"
+  date_start = "2019-06-28"
+  description = """
+  Projects:
+  
+  * Working on letting an authorized user switch across organizations without having to re-login for each organization.
+  """
+
+[[experience]]
   title = "Senior Software Engineer"
   company = "Myntra Designs Pvt. Ltd."
   company_url = "https://www.myntra.com/"
