@@ -30,7 +30,7 @@ weight = 1
 
 # Biography
 
-I am currently working as a Backend Software Engineering Intern at Sumo Logic. I am a part of their core-platform team which handles the all the incoming API calls and the security aspect of the gateway to Sumo's product. 
+I am currently working as a Backend Software Engineering Intern at Sumo Logic. I am a part of their core-platform team which handles all the incoming API calls and the security aspect of the gateway to Sumo's product. 
 
 I am enrolled as a graduate student in Computer Science at the University of Wisconsin-Madison and will be graduating by December 2019.
 
