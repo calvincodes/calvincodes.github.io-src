@@ -24,10 +24,14 @@ date_format = "January 2006"
   company_url = "https://www.sumologic.com/"
   location = "Redwood City, USA"
   date_start = "2019-06-28"
+  date_end = "2019-08-23"
   description = """
   Projects:
   
-  * Working on letting an authorized user switch across organizations without having to re-login for each organization.
+  * Built JWT based single sign-on feature which enables users to seamlessly switch across multiple accounts.
+  * This saves up to 15 seconds of user time per account switching.
+  * Here is my [blog post](https://medium.com/calvin-codes/understanding-json-web-tokens-jwt-459435175149) explaining the high level design.
+  * Also used AWS Secrets Manager and found a UX bug in the same, which is discussed in this [blog post](https://medium.com/calvin-codes/updating-encryption-key-of-a-secret-in-aws-secrets-manager-gone-wrong-8b3118cb5822) of mine.
   """
 
 [[experience]]
