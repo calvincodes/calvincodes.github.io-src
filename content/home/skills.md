@@ -4,7 +4,7 @@ widget = "featurette"  # Do not modify this line!
 date = 2017-09-20T00:00:00
 
 # Activate this widget? true/false
-active = false
+active = true
 
 title = "Skills"
 subtitle = ""
@@ -22,21 +22,39 @@ weight = 2
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
-  icon = "r-project"
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming Language"
+  description = "C, C++, Java, Scala, Python, Bash, PHP"
+
+[[feature]]
+  icon = "java"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Java EE"
+  description = "Spring Framework, REST, Hibernate, JUnit, Maven"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "server"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Tools & Frameworks"
+  description = "Tomcat, Play Framework, RabbitMQ, Kafka, Jetty"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Databases"
+  description = "MySQL, Cassandra, Redis, Elasticsearch"
+
+[[feature]]
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWS"
+  description = "EC2, IAM, CloudTrail, Secrets Manager, KMS"
+
+[[feature]]
+  icon = "shield-alt"
+  icon_pack = "fas"
+  name = "Security"
+  description = "Software Security, WebApp Security, etc"
 
 +++

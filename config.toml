@@ -63,7 +63,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "arpitjain1821@gmail.com"
-  address = "2110 University Ave, Madison, WI 53726, USA"
+  address = "2308 University Ave, Apt #71, Madison, WI 53726, USA"
   phone = "608 770 88 50"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
@@ -262,10 +262,10 @@ enableGitInfo = false
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+    [[params.social]]
+     icon = "cv"
+     icon_pack = "ai"
+     link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -302,10 +302,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+[[menu.main]]
+  name = "Resume"
+  url = "files/cv.pdf"
+  weight = 6
 
 # Search.
 [params.search]
