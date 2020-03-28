@@ -30,10 +30,8 @@ weight = 1
 
 # Biography
 
-I am enrolled as a graduate student in Computer Science at the University of Wisconsin-Madison and will be graduating by December 2019.
+I am a Software Engineer 2 at Sumo Logic HQ in the Redwood City. I am a part of the Core Platform Security team which takes care of the security aspect of the product.
 
-During summer 2019, I worked as a Backend Software Engineering Intern at Sumo Logic. I was a part of their core-platform team which handles all the incoming API calls and the security aspect of the gateway to Sumo's product. 
+I did my B.Tech. in Electronics and Communication Engineering from the Indian Institute of Technology Guwahati in 2015. After this, I joined Myntra Designs Pvt. Ltd. (e-commerce platform in India) and worked as a Senior Software Engineer for 3 years. I then pursued my MS in Computer Science from the University of Wisconsin-Madison and graduated in December 2019. 
 
-Prior to this, I was working as a Senior Software Engineer at Myntra Designs Pvt. Ltd. for 3 years, with a key focus on highly available and scalable services.
-
-I also maintain a [tech-blog](https://medium.com/calvin-codes), publishing bugs and issues in various frameworks which I have worked with.
+I am passionate about Software Security, Big Data Systems, Highly Available & Scalable Services, REST, and Microservices Architecture. I also maintain a [tech-blog](https://medium.com/calvin-codes), where I write about bugs and vulnerabilities in various libraries and frameworks.
