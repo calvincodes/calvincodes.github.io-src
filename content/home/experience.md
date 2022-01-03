@@ -19,14 +19,19 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Software Engineer 2"
+  title = "Senior Software Engineer"
   company = "Sumo Logic"
   company_url = "https://www.sumologic.com/"
   location = "Redwood City, USA"
   date_start = "2020-02-03"
   date_end = ""
   description = """
-  I am a part of the "Core Platform Security" team, which takes care of all the security aspects of the Sumo Logic platform.
+  Projects:
+  
+  * Led a team of 4 members to smoothen SAML login flow by designing and developing a tenant-specific subdomains feature. Created milestones from design to launch, and ensured parallelization of development tasks. [(Blog post)](https://medium.com/geekculture/how-to-design-tenant-specific-subdomains-in-your-saas-application-5bcc19a54824)
+  * Resolved ‘high availability’ and ‘scalability’ issues of Memcached-based user session datastore by migrating it to Redis, which provides per shard replication and online re-balancing. Contributed to Jedis-based in-house Redis client.
+  * Reduced AWS cost by $500K/yr by creating a Jenkins wizard for aws-nuke to delete unused resources. [(Blog post)](https://medium.com/faun/aws-cost-reduction-with-aws-nuke-46498b399c1e)
+  
   """
 
 [[experience]]
