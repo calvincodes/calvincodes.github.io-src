@@ -43,7 +43,7 @@ weight = 2
   icon = "database"
   icon_pack = "fas"
   name = "Databases"
-  description = "MySQL, Cassandra, Redis, Elasticsearch"
+  description = "MySQL, Redis, Memcached, Cassandra"
 
 [[feature]]
   icon = "aws"
